@@ -59,6 +59,12 @@ Search using:
 -Shows message if no records available
 
 
+<p align="center">
+  <img src="output.png" width="800">
+</p>
+
+
+
 <img width="512" height="279" alt="image" src="https://github.com/user-attachments/assets/74264d2b-93f1-4beb-8259-df374ac6d1f5" />
 <img width="358" height="96" alt="image" src="https://github.com/user-attachments/assets/5f7f9827-1eff-400d-b6c9-6e9ec2871611" />
 <img width="338" height="99" alt="image" src="https://github.com/user-attachments/assets/a1422ab7-db7d-4558-a433-b29d8852e38f" />
